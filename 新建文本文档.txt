@@ -1,0 +1,26 @@
+\section{problem}
+Congratulations, you have cracked the password to access this document. I think you should urgently know what I am doing for. Please answer the following three basic questions to obtain clues and use your brain to solve the problem！\\
+\\
+\\
+\\
+\begin{align*}
+    \lim_{x \to -1} \frac{x^2-1}{ln\left | x \right |  }  
+\end{align*}\\
+Multiply the value of this question by 410557
+\\
+\\
+\\
+\begin{align*}
+    \lim_{x \to \infty} \left [ \left ( x+2 \right )e^{\frac{1}{x} }  -x \right ] 
+\end{align*}
+Multiply the value of this question by 83
+\\
+\\
+\\
+\begin{align*}
+    \lim_{x \to \infty} \left ( \tan \frac{\pi x}{1
++2x}  \right ) ^{\frac{1}{x} } Multiply the value of this question by 149
+\end{align*}
+\\
+\\
+The end of this Q&A, dedicated to a girl, bxr
